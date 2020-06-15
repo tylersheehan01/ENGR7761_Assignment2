@@ -17,7 +17,7 @@ This assignement has been implemented in python langugaue using jupyter notebook
 
 7.	Non-maximum suppression is used to reduce the number of instances of boxes drawn. And count the number of cars
 
-## System Requirnments
+## System Requirements
 You will need to install jupyter labs notebook (python)
 
 * Requires OpenCV contribution version (OpenCV on Wheels)
