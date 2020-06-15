@@ -1,5 +1,5 @@
 # ENGR7761_Assignment2 - BOVW using SIFT descriptors to train a SVM for detecting cars in a carpark 
-The algorithm is developed in python. The following process using the previously described components are implemented in the python programming environment and utilised in the following manner. 
+This assignement has been implemented in python langugaue using jupyter notebook. The assignment has attempted to implement an object detection algorithm based using a Support Vector Machine (SVM) trained on SIFT descriptors using a Bag of Visual Words (BOVW) methodology. The algorithm follows the following 7 step program:
 
 1.	Gather a set of training images:
 a.	positive images (cars) 
@@ -17,7 +17,8 @@ b.	negative images (not cars)
 
 7.	Non-maximum suppression is used to reduce the number of instances of boxes drawn. And count the number of cars
 
-
+## System Requirnments
+You will need to install jupyter labs notebook (python)
 
 * Requires OpenCV contribution version (OpenCV on Wheels)
     * New versions of OpenCV contrib do not have SIFT
@@ -26,3 +27,4 @@ b.	negative images (not cars)
       * pip install opencv-contrib-python==3.4.2.16
       * may need to use this instead
       * pip install opencv-contrib-python==3.4.2.16 --user
+ *
