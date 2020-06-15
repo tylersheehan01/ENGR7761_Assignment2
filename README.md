@@ -2,8 +2,8 @@
 This assignement has been implemented in python langugaue using jupyter notebook. The assignment has attempted to implement an object detection algorithm based using a Support Vector Machine (SVM) trained on SIFT descriptors using a Bag of Visual Words (BOVW) methodology. The algorithm follows the following 7 step program:
 
 1.	Gather a set of training images:
-   *	positive images (cars) 
-   *	negative images (not cars)
+      *	positive images (cars) 
+      *	negative images (not cars)
 
 2.	Extract SIFT keypoints and compute the descriptors, for all the training images.
 
