@@ -1,4 +1,4 @@
-# ENGR7761_Assignment2
+# ENGR7761_Assignment2 - BOVW using SIFT descriptors to train a SVM for detecting cars in a carpark 
   * Requires OpenCV contribution version (OpenCV on Wheels)
     * New versions of OpenCV contrib do not have SIFT
     * The following commands are required 
