@@ -11,7 +11,7 @@ This assignement has been implemented in python langugaue using jupyter notebook
 
 4.	With respect to each individual image in each class, create a histogram of features with respect to the codebook generated in step 3).
 
-5.	The histograms of the positive and negative samples are labelled 1 for positive and -1 for negative.
+5.	Labels are assigned to each class, and the SVM is trained in preperation for object detection.
 
 6.	A sliding window is applied to the test image, at each window SVM is used to predict the class of the subsection of image. A bounding box is draw if a positive sample is found.
 
